@@ -1,0 +1,128 @@
+[
+    {
+        "id": "partner_1",
+        "resource": "checks",
+        "type": [
+            "cheap",
+            "fancy"
+        ],
+        "capacity": 5,
+        "address": {
+            "latitude": 42.651814,
+            "longitude": -71.219284
+        }
+    },
+    {
+        "id": "partner_2",
+        "resource": "letters",
+        "type": [
+            "fancy",
+            "standard"
+        ],
+        "capacity": 35,
+        "address": {
+            "latitude": 40.971844,
+            "longitude": -73.695768
+        }
+    },
+    {
+        "id": "partner_3",
+        "resource": "letters",
+        "type": [
+            "cheap"
+        ],
+        "capacity": 13,
+        "address": {
+            "latitude": 39.033324,
+            "longitude": -77.282924
+        }
+    },
+    {
+        "id": "partner_4",
+        "resource": "postcards",
+        "type": [
+            "standard",
+            "fancy"
+        ],
+        "capacity": 30,
+        "address": {
+            "latitude": 25.850715,
+            "longitude": -80.134119
+        }
+    },
+    {
+        "id": "partner_5",
+        "resource": "checks",
+        "type": [
+            "fancy"
+        ],
+        "capacity": 6,
+        "address": {
+            "latitude": 33.052602,
+            "longitude": -117.256814
+        }
+    },
+    {
+        "id": "partner_6",
+        "resource": "checks",
+        "type": [
+            "fancy"
+        ],
+        "capacity": 8,
+        "address": {
+            "latitude": 26.102438,
+            "longitude": -80.160847
+        }
+    },
+    {
+        "id": "partner_7",
+        "resource": "checks",
+        "type": [
+            "cheap",
+            "standard"
+        ],
+        "capacity": 9,
+        "address": {
+            "latitude": 33.051634,
+            "longitude": -117.256608
+        }
+    },
+    {
+        "id": "partner_8",
+        "resource": "checks",
+        "type": [
+            "standard"
+        ],
+        "capacity": 5,
+        "address": {
+            "latitude": 25.797542,
+            "longitude": -80.143762
+        }
+    },
+    {
+        "id": "partner_9",
+        "resource": "letters",
+        "type": [
+            "cheap",
+            "standard"
+        ],
+        "capacity": 3,
+        "address": {
+            "latitude": 36.62506,
+            "longitude": -82.090872
+        }
+    },
+    {
+        "id": "partner_10",
+        "resource": "postcards",
+        "type": [
+            "cheap",
+            "fancy"
+        ],
+        "capacity": 20,
+        "address": {
+            "latitude": 33.050952,
+            "longitude": -117.256623
+        }
+    }
+]
